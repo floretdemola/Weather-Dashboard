@@ -17,7 +17,7 @@ $(document).ready(function() {
 	  getCityWeather(city);
 	});
   
-	// Hide Elements til item is searched
+	// Hide Elements until item is searched
 	$("#city-info").hide();
 	$("#forecast").hide();
   
